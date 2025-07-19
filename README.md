@@ -1,4 +1,17 @@
-## Hi there 👋
+## Daniel Sáenz
+
+Electrical Engineering Student at Universidad de Costa Rica (UCR)
+
+---
+
+### Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,docker,vim,arduino,bash,cmake,latex,matlab,linux,mysql" />
+</p>
+
+---
+
 
 <!--
 **dan1elsaenz/dan1elsaenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
