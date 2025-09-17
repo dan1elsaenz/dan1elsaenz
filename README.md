@@ -10,7 +10,6 @@ Electrical Engineering Student at Universidad de Costa Rica (UCR)
   <img src="https://skillicons.dev/icons?i=py,c,cpp,docker,vim,arduino,bash,cmake,latex,matlab,linux,mysql" />
 </p>
 
----
 
 
 <!--
