@@ -1,6 +1,10 @@
 ## Daniel Sáenz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Electrical+Engineering+Student;Universidad de Costa Rica)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/dan1elsaenz">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+Engineering+Student;Universidad+de+Costa+Rica&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ---
 
