@@ -1,6 +1,6 @@
 ## Daniel Sáenz
 
-Electrical Engineering Student at Universidad de Costa Rica (UCR)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Electrical+Engineering+Student;Universidad de Costa Rica)](https://git.io/typing-svg)
 
 ---
 
