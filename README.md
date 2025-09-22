@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Electrical+Engineering+Student;Universidad+de+Costa+Rica&font=Fira%20Code&center=true&width=440&height=45&color=7B3FE4&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-💻 Passionate about technology, problem solving, and continuous learning.
-⚡️ Currently focused on studying.
-🚀 Always looking for opportunities to grow.
+- 💻 Passionate about technology, problem solving, and continuous learning.
+- ⚡️ Currently focused on studying.
+- 🚀 Always looking for opportunities to grow.
 
 ---
 
