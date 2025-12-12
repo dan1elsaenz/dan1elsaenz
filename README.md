@@ -15,7 +15,8 @@
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,docker,neovim,arduino,bash,cmake,latex,matlab,linux,mysql,sqlite,git," />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,docker,neovim,arduino,bash,cmake,latex,matlab,linux,mysql,sqlite,git" />
+  <img src="./assets/verilog.svg" height="50" />
 </p>
 
 
